@@ -1,0 +1,21 @@
+{
+  "project": "72 HORAS",
+  "source": "CBPCDMX - Versión Pública del Registro Interno de Personas Desaparecidas",
+  "accepted_file_types": [
+    "csv",
+    "xlsx",
+    "xls"
+  ],
+  "required_fields_canonical": [
+    "report_date",
+    "missing_date",
+    "status"
+  ],
+  "recommended_fields_canonical": [
+    "location_date",
+    "sex",
+    "age_group",
+    "borough_missing"
+  ],
+  "publication_rule": "Do not publish row-level raw data by default; publish code and aggregates."
+}
