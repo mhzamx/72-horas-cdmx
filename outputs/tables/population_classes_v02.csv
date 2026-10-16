@@ -1,0 +1,7 @@
+﻿clase,n,pct,descripcion
+VALIDO,1211,40.94,Localizado con duración reporte→localización válida
+AMBIGUO,318,10.75,Localizado antes de que se registrara el reporte (día 0 desde E1)
+SIN_FECHA,227,7.67,Estatus LOCALIZADO sin fecha utilizable (imputado en E3)
+IMPOSIBLE,21,0.71,Localización anterior a la desaparición (excluido de todo)
+ABIERTO,1181,39.93,Estatus DESAPARECIDO al corte (censurado)
+SIN_CLASE,0,0.0,No clasificado (debe ser 0)

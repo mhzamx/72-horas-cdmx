@@ -1,0 +1,7 @@
+﻿age_group,sample_size,located_records,located_with_valid_duration,pct_located_le_3d_among_located,below_min_sample_size
+0-11,137,77,53,64.15,0
+12-17,491,349,260,62.69,0
+18-29,751,458,319,68.03,0
+30-44,724,400,268,64.55,0
+45-59,423,218,147,70.07,0
+60+,354,248,149,72.48,0

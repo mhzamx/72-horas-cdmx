@@ -1,0 +1,7 @@
+﻿reloj,location_condition,n_excluido
+report_clock,CON VIDA,505
+report_clock,SIN VIDA,47
+report_clock,DESCONOCIDA,12
+missing_clock,CON VIDA,220
+missing_clock,SIN VIDA,26
+missing_clock,DESCONOCIDA,9

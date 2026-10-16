@@ -1,0 +1,6 @@
+﻿intervalo,CON VIDA,SIN VIDA,DESCONOCIDA,total,pct_CON_VIDA,pct_SIN_VIDA,pct_DESCONOCIDA,pct_sin_vida_del_intervalo
+≤1 día,598,34,1,633,54.12,34.0,16.67,5.37
+>1-3 días,159,18,2,179,14.39,18.0,33.33,10.06
+>3-7 días,136,12,2,150,12.31,12.0,33.33,8.0
+>7-30 días,145,20,0,165,13.12,20.0,0.0,12.12
+>30 días,67,16,1,84,6.06,16.0,16.67,19.05

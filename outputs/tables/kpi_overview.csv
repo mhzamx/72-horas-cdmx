@@ -1,0 +1,2 @@
+﻿total_records,located_records_by_status,open_records,located_with_valid_report_duration,located_excluded_from_report_timeline,pct_located_le_1d_among_located,pct_located_le_3d_among_located,pct_located_le_7d_among_located,pct_located_le_30d_among_located,avg_event_to_report_days,avg_report_to_location_days_among_located
+2958,1777,1181,1213,564,52.27,67.11,79.47,93.08,455.38,15.01

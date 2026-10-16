@@ -1,0 +1,9 @@
+﻿chequeo,valor
+total_localizados,1777
+con_vida,1612
+sin_vida,147
+condicion_desconocida,18
+suma_con_vida_sin_vida_desconocida_debe_igualar_total_localizados,1777
+condicion_conocida_pero_sin_fecha_de_localizacion_usable,218
+fecha_de_localizacion_usable_pero_condicion_desconocida,9
+condicion_conocida_y_con_duracion_reporte_valida (n_analitico usado en interval/CIF),1207
