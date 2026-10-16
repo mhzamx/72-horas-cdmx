@@ -1,5 +1,10 @@
 # Hallazgos finales — 72 HORAS
 
+> **Cifras vigentes (v0.2 final): §18.** Estimación principal: 44.2% (IC 95% 42.3–46.2%)
+> con localización documentada a ≤3 días del reporte; rango 38.5–46.2%. §18 sustituye las
+> cifras de §2 (34.0%), §5 (sexo sin diferencia) y §6 (12-17 el grupo más lento). Las
+> secciones §1-§17 se conservan sin editar para trazabilidad.
+
 Generado a partir de `data/raw/registro-interno-cbp-15-noviembre.xlsx`
 (CBPCDMX, Versión Pública del Registro Interno de Personas Desaparecidas).
 **Cobertura real: reportes del 2019-06-25 al 2022-11-14** (2,958 casos).
