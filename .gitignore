@@ -1,0 +1,13 @@
+# Datos a nivel de persona: nunca se publican
+data/raw/*
+!data/raw/README.md
+data/processed/
+dashboard/**/fact_cases*.csv
+outputs/tables/location_before_report_sample.csv
+outputs/tables/post_cutoff_cases_v02.csv
+# Entorno
+__pycache__/
+.pytest_cache/
+.venv/
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
