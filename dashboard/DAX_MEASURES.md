@@ -1,5 +1,8 @@
 # Medidas DAX
 
+> **Medidas del modelo v0.1.** Las del tablero final v0.2 están en
+> `powerbi/build_pbip_72h_r.py` (ver nota en `POWER_BI_GUIDE.md`).
+
 Ver `POWER_BI_GUIDE.md` sección 3 para el detalle y las notas de uso.
 Medidas base sobre `fact_cases`:
 

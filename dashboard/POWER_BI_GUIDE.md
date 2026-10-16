@@ -1,5 +1,10 @@
 # Guía de Power BI — 72 HORAS
 
+> **Tablero final v0.2:** `powerbi/72HORAS_v02_final.pbix` y `.pdf`, generado por
+> `powerbi/build_pbip_72h_r.py` a partir de `powerbi/72H_PowerBI_model_v02R.xlsx` (solo datos
+> agregados). Esta guía describe el tablero v0.1 basado en `fact_cases.csv`, que no se publica
+> porque contiene datos a nivel de persona; se regenera localmente con `python -m src.run_all`.
+
 Esta es la guía completa para construir el dashboard. `POWER_BI_MODEL.md`
 y `DAX_MEASURES.md` quedan como referencia rápida alineada con esta guía.
 

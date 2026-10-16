@@ -1,5 +1,7 @@
 # Modelo de Power BI
 
+> **Modelo v0.1.** El tablero final v0.2 está en `powerbi/` (ver nota en `POWER_BI_GUIDE.md`).
+
 Ver `POWER_BI_GUIDE.md` para la guía completa (importación, relaciones,
 DAX, páginas, filtros). Este archivo es el resumen rápido del modelo.
 
