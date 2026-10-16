@@ -1,5 +1,9 @@
 # Metodología
 
+> **v0.2 final: ver §13.** La población, el corte y la estimación principal (E3: 44.2%,
+> IC 95% 42.3–46.2%) se definen en §13. Lo que §2-§12 presentan como cifra a citar (34.0%)
+> corresponde a la v0.1 y queda superado; esas secciones se conservan para trazabilidad.
+
 ## 1. Unidad de análisis
 
 Un registro público de una persona reportada como desaparecida ante la
