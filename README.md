@@ -76,9 +76,10 @@ sobrescribe.
 
 En la v0.1, entre los casos **ya localizados**, el 67.1% se resolvió en ≤3 días desde el
 reporte; al incorporar los casos abiertos con Kaplan-Meier (censura), la estimación bajaba a
-34.0%. La v0.2 mostró que esa cifra dejaba fuera 545 localizados (318 antes del registro y
-227 sin fecha): con la población completa e imputación múltiple, la estimación principal es
-44.2%. Detalle completo, con todos los denominadores explícitos, en
+34.0%. La v0.2 mostró que esa cifra dejaba fuera 564 localizados; 545 de ellos (318 antes
+del registro y 227 sin fecha) entran en la población completa, y los 19 con orden de fechas
+imposible siguen excluidos. Con la población completa e imputación múltiple, la estimación
+principal es 44.2%. Detalle completo, con todos los denominadores explícitos, en
 `outputs/FINAL_FINDINGS.md` (§18) y `docs/METHODOLOGY.md` (§13).
 
 **Ampliación (§11-§17 de `outputs/FINAL_FINDINGS.md`):** de los
