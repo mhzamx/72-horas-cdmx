@@ -1,0 +1,13 @@
+﻿check,category,affected_rows,pct_rows
+missing_report_date,MISSING,0,0.0
+missing_event_date,MISSING,53,1.79
+missing_borough,MISSING,228,7.71
+missing_location_date,MISSING,1408,47.6
+location_before_report,AMBIGUOUS,337,11.39
+location_before_event,IMPOSSIBLE,21,0.71
+report_before_event,IMPOSSIBLE,8,0.27
+status_located_without_location_date,MISMATCH,227,7.67
+status_missing_with_location_date,MISMATCH,0,0.0
+duplicate_content,DUPLICATE,16,0.54
+historic_missing_date,OUTLIER,77,2.6
+any_impossible_or_missing_core,DERIVED,80,2.7

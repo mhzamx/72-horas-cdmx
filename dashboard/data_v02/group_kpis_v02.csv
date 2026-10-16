@@ -1,0 +1,37 @@
+﻿grupo,valor,n_riesgo,eventos_observados,pct_le3d_e3,ic_baja,ic_alta,pct_sin_fecha,below_min_sample_size
+sex,HOMBRE,1844,886,41.44,39.43,43.44,7.54,0
+sex,MUJER,1081,633,48.63,45.76,51.63,8.14,0
+sex,SIN DATO,12,9,75.0,50.0,100.0,0.0,1
+age_group,0-11,137,60,39.13,31.31,46.43,12.41,0
+age_group,12-17,486,305,48.8,44.49,52.82,8.02,0
+age_group,18-29,746,402,45.34,42.04,48.77,6.7,0
+age_group,30-44,720,342,39.83,36.38,43.52,7.5,0
+age_group,45-59,419,188,38.98,34.46,43.44,6.21,0
+age_group,60+,351,208,55.38,50.23,60.11,10.54,0
+age_group,SIN DATO,78,23,32.02,21.66,41.29,5.13,1
+borough_missing,ALVARO OBREGON,191,104,43.21,35.97,50.16,7.33,0
+borough_missing,AZCAPOTZALCO,152,80,46.79,39.28,54.34,7.89,0
+borough_missing,BENITO JUAREZ,144,93,54.42,46.52,61.88,4.17,0
+borough_missing,COYOACAN,165,99,50.58,43.39,57.88,10.3,0
+borough_missing,CUAJIMALPA DE MORELOS,54,23,34.36,22.96,46.31,11.11,1
+borough_missing,CUAUHTEMOC,365,195,45.08,40.17,50.05,7.12,0
+borough_missing,GUSTAVO A. MADERO,325,155,43.72,38.65,48.98,9.54,0
+borough_missing,IZTACALCO,86,52,49.14,38.49,59.53,3.49,0
+borough_missing,IZTAPALAPA,447,251,45.24,40.37,49.64,6.71,0
+borough_missing,LA MAGDALENA CONTRERAS,47,25,41.69,27.44,56.38,10.64,1
+borough_missing,MIGUEL HIDALGO,121,65,50.79,42.64,58.85,8.26,0
+borough_missing,MILPA ALTA,21,9,12.83,0.0,28.1,4.76,1
+borough_missing,NAUCALPAN DE JUAREZ,2,1,50.0,0.0,100.0,0.0,1
+borough_missing,OTRO,22,12,47.68,28.16,66.82,9.09,1
+borough_missing,SIN DATO,226,52,25.59,20.57,30.97,10.62,0
+borough_missing,TLAHUAC,113,69,46.24,36.99,55.49,2.65,0
+borough_missing,TLALPAN,155,93,49.89,42.65,57.42,6.45,0
+borough_missing,VENUSTIANO CARRANZA,169,84,43.92,36.63,51.01,8.88,0
+borough_missing,XOCHIMILCO,132,66,43.0,35.38,51.14,9.09,0
+report_year,2019,231,85,40.42,34.89,46.62,19.48,0
+report_year,2020,936,541,52.15,49.0,55.18,11.0,0
+report_year,2021,929,529,47.45,44.18,50.5,4.74,0
+report_year,2022,841,373,32.85,29.75,35.96,4.16,0
+report_source,NOTICIA,2017,1024,46.43,44.3,48.34,9.42,0
+report_source,REPORTE,908,495,38.82,35.71,41.97,4.07,0
+report_source,SIN DATO,12,9,75.0,50.0,100.0,0.0,1
